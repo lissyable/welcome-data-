@@ -1,2 +1,1 @@
-# welcome-data-
-new way of data analysis
+#Titanic data analysis using R
